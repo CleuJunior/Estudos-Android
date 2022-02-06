@@ -4,10 +4,13 @@
       <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0-bin/2p9ebqfz6ilrfozi676ogco7n/gradle-7.0/bin/caches/transforms-3/a00334b980499e7a51554173e168d3c7/transformed/legacy-support-core-utils-1.0.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0-bin/2p9ebqfz6ilrfozi676ogco7n/gradle-7.0/bin/caches/transforms-3/a00334b980499e7a51554173e168d3c7/transformed/legacy-support-core-utils-1.0.0/res" />
       <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0-bin/2p9ebqfz6ilrfozi676ogco7n/gradle-7.0/bin/caches/transforms-3/a00334b980499e7a51554173e168d3c7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9775d91a076f3e05699a0b7391b70940/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9775d91a076f3e05699a0b7391b70940/transformed/legacy-support-core-utils-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0-bin/2p9ebqfz6ilrfozi676ogco7n/gradle-7.0/bin/caches/modules-2/files-2.1/androidx.legacy/legacy-support-core-utils/1.0.0/46c37f178088153618cfb0afef08ec96c48f93cb/legacy-support-core-utils-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.legacy/legacy-support-core-utils/1.0.0/46c37f178088153618cfb0afef08ec96c48f93cb/legacy-support-core-utils-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

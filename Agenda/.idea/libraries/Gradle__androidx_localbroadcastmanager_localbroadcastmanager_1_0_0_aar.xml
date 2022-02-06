@@ -4,10 +4,13 @@
       <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0-bin/2p9ebqfz6ilrfozi676ogco7n/gradle-7.0/bin/caches/transforms-3/c4fc173b78e688d55c2470daa20b839d/transformed/localbroadcastmanager-1.0.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0-bin/2p9ebqfz6ilrfozi676ogco7n/gradle-7.0/bin/caches/transforms-3/c4fc173b78e688d55c2470daa20b839d/transformed/localbroadcastmanager-1.0.0/res" />
       <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0-bin/2p9ebqfz6ilrfozi676ogco7n/gradle-7.0/bin/caches/transforms-3/c4fc173b78e688d55c2470daa20b839d/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6d911ab5f87d4cdf3758ea8fc0b96e0b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6d911ab5f87d4cdf3758ea8fc0b96e0b/transformed/localbroadcastmanager-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0-bin/2p9ebqfz6ilrfozi676ogco7n/gradle-7.0/bin/caches/modules-2/files-2.1/androidx.localbroadcastmanager/localbroadcastmanager/1.0.0/3930e99159fd6b7f1d2e7d5fe9af0924ca1faf9/localbroadcastmanager-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.localbroadcastmanager/localbroadcastmanager/1.0.0/3930e99159fd6b7f1d2e7d5fe9af0924ca1faf9/localbroadcastmanager-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -4,12 +4,16 @@
       <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0-bin/2p9ebqfz6ilrfozi676ogco7n/gradle-7.0/bin/caches/transforms-3/610c4bc2fcb38aa6ba1ee98ae5d8e4de/transformed/espresso-idling-resource-3.3.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0-bin/2p9ebqfz6ilrfozi676ogco7n/gradle-7.0/bin/caches/transforms-3/610c4bc2fcb38aa6ba1ee98ae5d8e4de/transformed/espresso-idling-resource-3.3.0/res" />
       <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0-bin/2p9ebqfz6ilrfozi676ogco7n/gradle-7.0/bin/caches/transforms-3/610c4bc2fcb38aa6ba1ee98ae5d8e4de/transformed/espresso-idling-resource-3.3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/66c6a8ebbc1b79a8ef0f4bd0e81a9524/transformed/espresso-idling-resource-3.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/66c6a8ebbc1b79a8ef0f4bd0e81a9524/transformed/espresso-idling-resource-3.3.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0-bin/2p9ebqfz6ilrfozi676ogco7n/gradle-7.0/bin/caches/modules-2/files-2.1/androidx.test.espresso/espresso-idling-resource/3.3.0/ac774bb29e6171578dc7508bf390a4a3ccbedfea/espresso-idling-resource-3.3.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-idling-resource/3.3.0/ac774bb29e6171578dc7508bf390a4a3ccbedfea/espresso-idling-resource-3.3.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-7.0-bin/2p9ebqfz6ilrfozi676ogco7n/gradle-7.0/bin/caches/modules-2/files-2.1/androidx.test.espresso/espresso-idling-resource/3.3.0/ee0f3ffdd7782d68dbe1eafa9337872817cb299e/espresso-idling-resource-3.3.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-idling-resource/3.3.0/ee0f3ffdd7782d68dbe1eafa9337872817cb299e/espresso-idling-resource-3.3.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
