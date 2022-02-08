@@ -23,7 +23,7 @@
         android:focusable="true" />
 
     <ListView
-        android:id="@+id/activity_main_lista_alunos"
+        android:id="@+id/activity_main_lista_alunos_listview"
         android:layout_width="410dp"
         android:layout_height="577dp">
 
