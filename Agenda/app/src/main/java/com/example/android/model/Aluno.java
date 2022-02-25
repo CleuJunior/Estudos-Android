@@ -31,6 +31,5 @@ public class Aluno implements Serializable {
     @NonNull
     @Override
     public String toString() { return nome; }
-
     public boolean temIdValido() { return id > 0; }
 }
